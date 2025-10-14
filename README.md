@@ -29,7 +29,7 @@ We then compare all three to determine which algorithm is suitable for which typ
 ### Name: Priyadharshan S
 ### Register Number: 212223240127
 
-```
+```python
 def sarsa(env,
           gamma=1.0,
           init_alpha=0.5,
